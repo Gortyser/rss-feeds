@@ -2,7 +2,7 @@
 <opml version="1.0">
   <head>
     <title>RSS subscriptions for gortyser@gmail.com</title>
-    <dateCreated>Tue, 24 Oct 2023 14:26:09 +0000</dateCreated>
+    <dateCreated>Sat, 28 Oct 2023 17:40:37 +0000</dateCreated>
     <ownerEmail>gortyser@gmail.com</ownerEmail>
   </head>
   <body>
@@ -24,6 +24,7 @@
 <outline text="Angular Blog" title="Angular Blog" type="rss" xmlUrl="https://blog.angular.io/feed" htmlUrl="https://blog.angular.io?source=rss----447683c3d9a3---4"/>
 <outline text="Angular University" title="Angular University" type="rss" xmlUrl="https://blog.angular-university.io/rss/" htmlUrl="https://blog.angular-university.io/"/>
 <outline text="Zach Leatherman" title="Zach Leatherman" type="rss" xmlUrl="https://www.zachleat.com/web/feed/" htmlUrl="https://www.zachleat.com/web/"/>
+<outline text="ESLint Blog" title="ESLint Blog" type="rss" xmlUrl="https://eslint.org/feed.xml" htmlUrl="https://eslint.org/"/>
 <outline text="1Password Blog" title="1Password Blog" type="rss" xmlUrl="https://blog.1password.com/index.xml" htmlUrl="https://blog.1password.com/"/>
 <outline text="The GitHub Blog" title="The GitHub Blog" type="rss" xmlUrl="https://github.blog/feed/" htmlUrl="https://github.blog/"/>
 <outline text="Jim Nielsen’s Blog" title="Jim Nielsen’s Blog" type="rss" xmlUrl="https://blog.jim-nielsen.com/feed.xml" htmlUrl="https://blog.jim-nielsen.com"/>
@@ -83,6 +84,7 @@
 <outline text="WebKit" title="WebKit" type="rss" xmlUrl="https://webkit.org/feed/" htmlUrl="https://webkit.org"/>
 <outline text="Firefox Nightly News" title="Firefox Nightly News" type="rss" xmlUrl="https://blog.nightly.mozilla.org/feed/" htmlUrl="https://blog.nightly.mozilla.org"/>
 <outline text="Angular Blog" title="Angular Blog" type="rss" xmlUrl="https://blog.angular.io/feed" htmlUrl="https://blog.angular.io?source=rss----447683c3d9a3---4"/>
+<outline text="ESLint Blog" title="ESLint Blog" type="rss" xmlUrl="https://eslint.org/feed.xml" htmlUrl="https://eslint.org/"/>
 <outline text="TypeScript DevBlog" title="TypeScript DevBlog" type="rss" xmlUrl="https://devblogs.microsoft.com/typescript/feed/" htmlUrl="https://devblogs.microsoft.com/typescript/"/>
 <outline text="Chrome Developers" title="Chrome Developers" type="rss" xmlUrl="https://developer.chrome.com/feeds/all.xml" htmlUrl="https://developer.chrome.com"/>
     </outline>
